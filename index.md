@@ -4,6 +4,8 @@
 
 ### Python package on image scrapping
 
+A Python package to scrape and download images from Google search using BeautifulSoup and Requests libraries.
+
 [img_scrapper](/img_scrapper)
 
 <img src="images/img_scrapper.png?raw=true"/>
