@@ -5,7 +5,7 @@
 ### Python package on image scrapping
 
 [img_scrapper](/sample_page)
-<img src="images/img_scrapper.jpg?raw=true"/>
+<img src="images/img_scrapper.png?raw=true"/>
 
 ---
 
